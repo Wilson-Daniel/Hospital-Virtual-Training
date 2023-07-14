@@ -1,5 +1,8 @@
-Final Project Azure Link - https://gray-cliff-045037e10.3.azurestaticapps.net/
-# PROJECT TITLE - Hospital Students Virtual Training Website
+# PROJECT TITLE
+Microsoft Azure Deployed Hospital Students Virtual Training Website
+
+# Microsoft Azure Deployed Link
+https://gray-cliff-045037e10.3.azurestaticapps.net/
 
 ## Screenshots
 
